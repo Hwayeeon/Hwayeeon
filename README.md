@@ -11,7 +11,7 @@
 - I’m looking to collaborate on projects focused on **educational tools for programming** and **open-source contributions**.
 
 ## Contact
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:yoonakim320@gmail.com) : yoonakim320@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:yoonakim320@gmail.com)
 
 ## Pronouns
 - She/Her
