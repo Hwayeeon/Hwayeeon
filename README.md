@@ -1,5 +1,7 @@
 # Hi, I'm Hwayeon
 
+<img src="./assets/image_profile/profile.webp"/>
+
 ## About Me
 - A Computer Science student currently pursuing my degree in South Korea.
 - Actively learning **Algorithms**, **Data Structures**, and **C Programming**.
