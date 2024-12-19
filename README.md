@@ -1,6 +1,6 @@
 # Hi, I'm Hwayeon
 
-<img src="./assets/image_profile/profile.webp"/>
+<img src="./Assets/profile.webp"/>
 
 ## About Me
 - A Computer Science student currently pursuing my degree in South Korea.
