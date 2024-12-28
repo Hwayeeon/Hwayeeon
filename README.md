@@ -10,4 +10,6 @@ Computer Science Student
 
 - **한국어** (Native)  
 - **English** (Fluent)
-- **Bahasa** (Fluent)
+- **Bahasa** (Fluent
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwayeeon&size_weight=0.5&count_weight=0.5)
