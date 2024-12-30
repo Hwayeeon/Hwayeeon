@@ -10,4 +10,5 @@ Computer Science Student
 
 - **한국어** (Native)  
 - **English** (Fluent)
-- **Bahasa** (Fluent
+- **Bahasa** (Fluent)
+- **Mandarin** (Fluent)
