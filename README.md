@@ -1,9 +1,6 @@
 # Hwayeon
 
-<video style="width: auto; height: fit-content;" controls loop>
-  <source src="Assets/blue.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](Assets/profile_2.jpg)](https://youtube.com/shorts/QiAtxVPIE-I?feature=share)
 
 ## About Me
 Computer Science Student | Actively learning and growing as a problem-solver.
