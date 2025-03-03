@@ -1,4 +1,4 @@
-# Hwayeon
+# Davidson R
 
 ## About Me
 Computer Science Student | Actively learning and growing as a problem-solver.
